@@ -1,0 +1,19 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.icons{
+    border-radius: 12rem;
+    object-fit: cover;
+}
+.icons:hover {
+    width:24rem;
+    
+}
+.compicons{
+    width:24rem;
+    box-shadow: 0 0 30px red; /* Highlight effect without shifting */
+}
+.humanicons{
+    width:24rem;
+    box-shadow: 0 0 30px green; /* Highlight effect without shifting */
+}
